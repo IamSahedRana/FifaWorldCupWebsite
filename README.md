@@ -182,7 +182,7 @@ The footer uses a clean layout to provide a professional ending to the page.
 
 ### Preview
 
-![Footer](./Preview/footer.png)
+![Footer](./Preview/Footer.png)
 
 ---
 
