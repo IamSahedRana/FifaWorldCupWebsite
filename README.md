@@ -61,7 +61,7 @@ The hero section introduces the FIFA World Cup 2026 experience with a strong vis
 
 ### Preview
 
-![Hero Section](./Preview/hero-section.png)
+![Hero Section](./Preview/Hero-Section.png)
 
 ---
 
